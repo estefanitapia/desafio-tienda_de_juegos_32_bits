@@ -1,6 +1,6 @@
 # Tienda 32 Bits
 
-![Imagen tienda](https://cli.vuejs.org/config/).  
+![Imagen tienda](/public/tienda.png)  
 Este proyecto es una aplicación web simple para la gestión de una lista de juegos en una tienda. La aplicación permite ver una lista de juegos con su código, nombre, stock y precio, y proporciona botones para incrementar o disminuir el stock de cada juego.
 
 ## Estructura del Proyecto
